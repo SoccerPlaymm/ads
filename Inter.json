@@ -1,1 +1,43 @@
+{ 
 
+   "liveinterlclose" : "on",
+
+   "liveinterimg" : "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/1150-x-550%20(2).gif",
+
+   "liveinterlink" : "https://m.youtube.com/",
+
+   
+
+   "highinterclose" : "on",
+
+   "highinterimg" : "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/1150-x-550%20(2).gif",
+
+   "highinterlink" : "https://m.youtube.com/",
+
+   
+
+   "movieinterclose" : "on",
+
+   "movieinterimg" : "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/1150-x-550%20(2).gif",
+
+   "movieinterlink" : "https://m.youtube.com/",
+
+   
+
+   "videointerclose" : "off",
+
+   "videointerimg" : "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/1150-x-550%20(2).gif",
+
+   "videointerlink" : "https://m.youtube.com/",
+
+   
+
+   "tvchinterclose" : "off",
+
+   "tvchinterimg" : "https://raw.githubusercontent.com/fotlivemm123/fotlive/main/1150-x-550%20(2).gif",
+
+   "tvchinterlink" : "https://m.youtube.com/"
+
+   
+
+}
