@@ -16,7 +16,7 @@
 
    
 
-   "movieinterclose" : "on",
+   "movieinterclose" : "off",
 
    "movieinterimg" : "https://github.com/SoccerPlaymm/app/raw/main/20230117_231426.jpg",
 
@@ -24,7 +24,7 @@
 
    
 
-   "videointerclose" : "on",
+   "videointerclose" : "off",
 
    "videointerimg" : "https://github.com/SoccerPlaymm/app/raw/main/20230117_231426.jpg",
 
