@@ -8,17 +8,17 @@
 
    
 
-   "highinterclose" : "off",
+   "highinterclose" : "on",
 
-   "highinterimg" : "https://github.com/SoccerPlaymm/app/raw/main/20230117_231426.jpg",
+   "highinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
    "highinterlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
    
 
-   "movieinterclose" : "off",
+   "movieinterclose" : "on",
 
-   "movieinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/20230429_121731.png",
+   "movieinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
    "movieinterlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
