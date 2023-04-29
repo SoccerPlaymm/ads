@@ -2,31 +2,31 @@
 
    "liveinterlclose" : "off",
 
-   "liveinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
+   "liveinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
    "liveinterlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
    
 
-   "highinterclose" : "off",
+   "highinterclose" : "on",
 
-   "highinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
+   "highinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
    "highinterlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
    
 
-   "movieinterclose" : "off",
+   "movieinterclose" : "on",
 
-   "movieinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
+   "movieinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
    "movieinterlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
    
 
-   "videointerclose" : "off",
+   "videointerclose" : "on",
 
-   "videointerimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
+   "videointerimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
    "videointerlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
@@ -34,7 +34,7 @@
 
    "tvchinterclose" : "off",
 
-   "tvchinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
+   "tvchinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
    "tvchinterlink" : "https://bit.ly/Burmese_Live-Play_Store"
 
