@@ -2,13 +2,13 @@
 
    "liveinterlclose" : "off",
 
-   "liveinterimg" : "https://github.com/SoccerPlaymm/app/raw/main/20230117_231426.jpg",
+   "liveinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
    "liveinterlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
    
 
-   "highinterclose" : "on",
+   "highinterclose" : "off",
 
    "highinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
@@ -16,7 +16,7 @@
 
    
 
-   "movieinterclose" : "on",
+   "movieinterclose" : "off",
 
    "movieinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
@@ -26,7 +26,7 @@
 
    "videointerclose" : "off",
 
-   "videointerimg" : "https://github.com/SoccerPlaymm/app/raw/main/20230117_231426.jpg",
+   "videointerimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
    "videointerlink" : "https://bit.ly/Burmese_Live-Play_Store",
 
@@ -34,7 +34,7 @@
 
    "tvchinterclose" : "off",
 
-   "tvchinterimg" : "https://github.com/SoccerPlaymm/app/raw/main/20230117_231426.jpg",
+   "tvchinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/405-x-900.gif",
 
    "tvchinterlink" : "https://bit.ly/Burmese_Live-Play_Store"
 
