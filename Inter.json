@@ -1,6 +1,6 @@
 { 
 
-   "liveinterlclose" : "on",
+   "liveinterlclose" : "off",
 
    "liveinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
@@ -8,7 +8,7 @@
 
    
 
-   "highinterclose" : "on",
+   "highinterclose" : "off",
 
    "highinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
@@ -16,7 +16,7 @@
 
    
 
-   "movieinterclose" : "on",
+   "movieinterclose" : "off",
 
    "movieinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
@@ -24,7 +24,7 @@
 
    
 
-   "videointerclose" : "on",
+   "videointerclose" : "off",
 
    "videointerimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
@@ -32,7 +32,7 @@
 
    
 
-   "tvchinterclose" : "on",
+   "tvchinterclose" : "off",
 
    "tvchinterimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Untitled-1.gif",
 
