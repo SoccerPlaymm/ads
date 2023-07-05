@@ -1,17 +1,17 @@
 { 
-   "liveadsimg" : "",
+   "liveadsimg" : "0",
    "liveadslink" : "http://bitly.ws/DHq3",
    
-   "highadsimg" : "",
+   "highadsimg" : "0",
    "highadslink" : "http://bitly.ws/DHq3",
    
-   "movieadsimg" : "",
+   "movieadsimg" : "0",
    "movieadslink" : "http://bitly.ws/DHq3",
    
-   "videoadsimg" : "",
+   "videoadsimg" : "0",
    "videoadslink" : "http://bitly.ws/DHq3",
    
-   "tvchadsimg" : "",
+   "tvchadsimg" : "0",
    "tvchadslink" : "http://bitly.ws/DHq3"
    
 }
