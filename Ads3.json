@@ -1,17 +1,17 @@
 { 
-   "liveadsimg" : "",
+   "liveadsimg" : "https://firebasestorage.googleapis.com/v0/b/movieplus-app.appspot.com/o/final%20gif.gif?alt=media&token=0e2faf3b-680e-48a5-bd",
    "liveadslink" : "http://bitly.ws/DHq3",
    
-   "highadsimg" : "",
+   "highadsimg" : "https://firebasestorage.googleapis.com/v0/b/movieplus-app.appspot.com/o/final%20gif.gif?alt=media&token=0e2faf3b-680e-48a5-bd",
    "highadslink" : "http://bitly.ws/DHq3",
    
-   "movieadsimg" : "",
+   "movieadsimg" : "https://firebasestorage.googleapis.com/v0/b/movieplus-app.appspot.com/o/final%20gif.gif?alt=media&token=0e2faf3b-680e-48a5-bd",
    "movieadslink" : "http://bitly.ws/DHq3",
    
-   "videoadsimg" : "",
+   "videoadsimg" : "https://firebasestorage.googleapis.com/v0/b/movieplus-app.appspot.com/o/final%20gif.gif?alt=media&token=0e2faf3b-680e-48a5-bd",
    "videoadslink" : "http://bitly.ws/DHq3",
    
-   "tvchadsimg" : "",
+   "tvchadsimg" : "https://firebasestorage.googleapis.com/v0/b/movieplus-app.appspot.com/o/final%20gif.gif?alt=media&token=0e2faf3b-680e-48a5-bd",
    "tvchadslink" : "http://bitly.ws/DHq3"
    
 }
