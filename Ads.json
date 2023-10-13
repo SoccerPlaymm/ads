@@ -1,17 +1,17 @@
 { 
-   "liveadsimg" : "https://www.googleapis.com/drive/v3/files/1qwkGwReMAErfnsT7MiK5w3TFfwoT8t-x?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+   "liveadsimg" : "",
    "liveadslink" : "https://www.mmk95.com/?pid=burlive",
    
-   "highadsimg" : "https://www.googleapis.com/drive/v3/files/1qwkGwReMAErfnsT7MiK5w3TFfwoT8t-x?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+   "highadsimg" : "",
    "highadslink" : "https://www.mmk95.com/?pid=burlive",
    
-   "movieadsimg" : "https://www.googleapis.com/drive/v3/files/1qwkGwReMAErfnsT7MiK5w3TFfwoT8t-x?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+   "movieadsimg" : "",
    "movieadslink" : "https://www.mmk95.com/?pid=burlive",
    
-   "videoadsimg" : "https://www.googleapis.com/drive/v3/files/1qwkGwReMAErfnsT7MiK5w3TFfwoT8t-x?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+   "videoadsimg" : "",
    "videoadslink" : "https://www.mmk95.com/?pid=burlive",
    
-   "tvchadsimg" : "https://www.googleapis.com/drive/v3/files/1qwkGwReMAErfnsT7MiK5w3TFfwoT8t-x?alt=media&key=AIzaSyDFghK24KMpGqPbpzybFJ_n9EV-0ncLhpU",
+   "tvchadsimg" : "",
    "tvchadslink" : "https://www.mmk95.com/?pid=burlive"
    
 }
