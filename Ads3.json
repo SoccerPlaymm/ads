@@ -1,17 +1,17 @@
 { 
-   "liveadsimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Banner-mmk-1150x400-01.gif",
+   "liveadsimg" : "0",
    "liveadslink" : "https://heylink.me/ufammksport/",
    
-   "highadsimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Banner-mmk-1150x400-01.gif",
+   "highadsimg" : "0",
    "highadslink" : "https://heylink.me/ufammksport/",
    
-   "movieadsimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Banner-mmk-1150x400-01.gif",
+   "movieadsimg" : "0",
    "movieadslink" : "https://heylink.me/ufammksport/",
    
-   "videoadsimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Banner-mmk-1150x400-01.gif",
+   "videoadsimg" : "0",
    "videoadslink" : "https://heylink.me/ufammksport/",
    
-   "tvchadsimg" : "https://raw.githubusercontent.com/SoccerPlaymm/ads/main/Banner-mmk-1150x400-01.gif",
+   "tvchadsimg" : "0",
    "tvchadslink" : "https://heylink.me/ufammksport/"
    
 }
